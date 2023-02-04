@@ -1,11 +1,13 @@
 /* styles.css exercise 1.  
 My dark mode Google extensions has to be turned off!  I thought I was doing this wrong. 
-Changed to the native darkmode in Chrome and now rendering correctly. */
+Changed to the native dark mode in Chrome and now rendering correctly. */
 
 div 
 {
     color:white;
     background-color:red;
     font-weight: bold;
+    text-align: center;
+    font-size: large;
    
 }
